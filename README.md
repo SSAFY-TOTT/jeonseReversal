@@ -61,13 +61,17 @@ Turn of the Tide(TOTT)는 **금융 및 부동산 정보의 결합으로 전세�
 
 <img src="https://github.com/SSAFY-TOTT/TOTT/assets/74192619/d3de8ed6-e126-4784-ad10-ec12b1bff828" width="800" alt="서비스 아키텍처">
 
+<br>
+
 ## Open API
 
 ### 신한은행 API
 
 ---
 
-<img src="https://github.com/SSAFY-TOTT/TOTT/assets/74192619/c96525ff-beb6-45e0-b033-81950bef3884" width="800" alt="신한은행 LOGO">
+<img src="https://github.com/SSAFY-TOTT/TOTT/assets/74192619/c96525ff-beb6-45e0-b033-81950bef3884" width="300" alt="신한은행 LOGO">
+
+<br>
 
 | 번호 | API         | 설명                                    |
 |:--:|:------------|---------------------------------------|
@@ -92,7 +96,9 @@ API 들의 활용을 하나의 흐름으로 살펴보면 다음과 같습니다.
 
 ---
 
-<img src="https://github.com/SSAFY-TOTT/TOTT/assets/74192619/56b6b438-d406-42a6-86ca-80757d2dacd7" alt="서울 열린데이터 광장 LOGO">
+<img src="https://github.com/SSAFY-TOTT/TOTT/assets/74192619/56b6b438-d406-42a6-86ca-80757d2dacd7" width="300" alt="서울 열린데이터 광장 LOGO">
+
+<br>
 
 | 번호 | API             | 설명                                                                                           |
 |:--:|:----------------|----------------------------------------------------------------------------------------------|
@@ -104,7 +110,9 @@ API 들의 활용을 하나의 흐름으로 살펴보면 다음과 같습니다.
 
 ---
 
-<img src="https://github.com/SSAFY-TOTT/TOTT/assets/74192619/73f1fc30-a800-4561-b08e-e8fdb4c3d2ef" width="800" alt="카카오 MAPS LOGO">
+<img src="https://github.com/SSAFY-TOTT/TOTT/assets/74192619/73f1fc30-a800-4561-b08e-e8fdb4c3d2ef" width="300" alt="카카오 MAPS LOGO">
+
+<br>
 
 | 번호 | API       | 설명                                                |
 |:--:|:----------|---------------------------------------------------|
